@@ -7,4 +7,5 @@ void main ()
 	int b = 200;
 	printf("add result%d \n", a+b);
 	printf("user1 modify1 \n"):
+	char[] user1 = "modify 2"
 }
