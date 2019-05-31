@@ -9,3 +9,8 @@ void main ()
 	printf("user1 modify1 \n"):
 	char[] user1 = "modify 2"
 }
+
+void abc()
+{
+	printf("abc");
+}
