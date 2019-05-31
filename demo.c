@@ -19,3 +19,8 @@ void sub(int a, int b)
 {
 	return a-b;
 }
+
+void muti(int a , int b)
+{
+	return a*b;
+}
