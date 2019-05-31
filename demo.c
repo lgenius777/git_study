@@ -14,3 +14,8 @@ void abc()
 {
 	printf("abc");
 }
+
+void edf()
+{
+	printf("def");
+}
